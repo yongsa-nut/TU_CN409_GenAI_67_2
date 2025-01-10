@@ -27,7 +27,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 19th February | Information Retrieval and RAG             |          | [HW4]   |
 | 26th February | Multimodal Capabilities and Tool-Use      |          | [HW5]   |
 | 5th  March    | Agentic AI                                |          | [HW6]   |
-| 12th  March   | Project Proposal                          |          |         |
+| 12th  March   | **Project Proposal**                      |          |         |
 | 19th  March   | Coding with AI                            |          | [HW7]   |
 | 26th  March   | Roleplaying Chatbots                      |          |         |
 | 2nd  April    | Safety                                    |          | [HW8]   |
@@ -36,6 +36,6 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 23rd April    | Image gen models                          |          | [HW9]   |
 | 30th April    | Video gen models                          |          |         |
 | 7th  May*     | UX and AI + Human and AI                  |          | [HW10]  |
-| 14th May      | Final Project Presentation                |          |         |   
+| 14th May      | **Final Project Presentation**            |          |         |   
 
 *I'm out of town.
