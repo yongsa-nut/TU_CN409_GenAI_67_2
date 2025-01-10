@@ -20,7 +20,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 
 | Date  |   Topic   |  Video   | Homework |
 | ----- | --------- | -------- | -------- |
-| 22th January  | Introduction and History of AI            |          | [HW1]   |   
+| 22th January  | [Introduction and History of AI](https://docs.google.com/presentation/d/1mLymOtXZiAUXmx33MekqXzayVw1x36-Mij680x-9F_4/edit?usp=sharing)    |          | [HW1]   |   
 | 29th January  | LLM Basic                                 |          | [HW2]   |   
 | 5th February  | Prompt Engineering                        |          | [HW3]   |   
 | 12th February | Evaluation                                |          |         |
