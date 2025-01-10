@@ -22,7 +22,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | ----- | --------- | -------- | -------- |
 | 22th January  | [Introduction and History of AI](https://docs.google.com/presentation/d/1mLymOtXZiAUXmx33MekqXzayVw1x36-Mij680x-9F_4/edit?usp=sharing)    |          | [HW1]   |   
 | 29th January  | [LLM Basic](https://docs.google.com/presentation/d/1otdPZ9RpoYTGBNWfa4CQrowG-SWhDcb2mXdU6xQss5Q/edit?usp=sharing)                                 |          | [HW2]   |   
-| 5th February  | Prompt Engineering                        |          | [HW3]   |   
+| 5th February  | [Prompt Engineering](https://docs.google.com/presentation/d/1I42C5r9kS2p9J_PFPE7N-580-bwWgMmZMw7cw8tMQDg/edit?usp=sharing)                        |          | [HW3]   |   
 | 12th February | Evaluation                                |          |         |
 | 19th February | Information Retrieval and RAG             |          | [HW4]   |
 | 26th February | Multimodal Capabilities and Tool-Use      |          | [HW5]   |
