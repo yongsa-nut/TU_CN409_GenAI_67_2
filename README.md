@@ -25,7 +25,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 5th February  | [Prompt Engineering](https://docs.google.com/presentation/d/1I42C5r9kS2p9J_PFPE7N-580-bwWgMmZMw7cw8tMQDg/edit?usp=sharing)                        |          | [HW3]   |   
 | 12th February | [Evaluation](https://docs.google.com/presentation/d/1nUs5U_ETiB_XJ40ja-W8TlPcvPYiTkROOMJOpg7ypLs/edit?usp=sharing)                                |          |         |
 | 19th February | [Information Retrieval and RAG](https://docs.google.com/presentation/d/16OI1N-blBcp3dVCIdiBpS6MWydLpzuF-rwPOgbR5v4w/edit?usp=sharing)             |          | [HW4]   |
-| 26th February | Multimodal Capabilities and Tool-Use      |          | [HW5]   |
+| 26th February | [Multimodal Capabilities and Tool-Use](https://docs.google.com/presentation/d/19RwwitdVJyoxj9mXFuyQFub9QldgV9exuGu9-riYdUE/edit?usp=sharing)      |          | [HW5]   |
 | 5th  March    | Agentic AI                                |          | [HW6]   |
 | 12th  March   | **Project Proposal**                      |          |         |
 | 19th  March   | Coding with AI                            |          | [HW7]   |
