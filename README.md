@@ -21,7 +21,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | Date  |   Topic   |  Video   | Homework |
 | ----- | --------- | -------- | -------- |
 | 22th January  | [Introduction and History of AI](https://docs.google.com/presentation/d/1mLymOtXZiAUXmx33MekqXzayVw1x36-Mij680x-9F_4/edit?usp=sharing)    |          | [HW1](https://docs.google.com/presentation/d/1mLymOtXZiAUXmx33MekqXzayVw1x36-Mij680x-9F_4/edit?usp=sharing)   |   
-| 29th January  | [LLM Basic](https://docs.google.com/presentation/d/1otdPZ9RpoYTGBNWfa4CQrowG-SWhDcb2mXdU6xQss5Q/edit?usp=sharing)                                 |          | [HW2]   |   
+| 29th January  | [LLM Basic](https://docs.google.com/presentation/d/1otdPZ9RpoYTGBNWfa4CQrowG-SWhDcb2mXdU6xQss5Q/edit?usp=sharing)                                 |          | [HW2](https://colab.research.google.com/github/yongsa-nut/TU_CN409_GenAI_67_2/blob/main/CN409_HW2.ipynb)   |   
 | 5th February  | [Prompt Engineering](https://docs.google.com/presentation/d/1I42C5r9kS2p9J_PFPE7N-580-bwWgMmZMw7cw8tMQDg/edit?usp=sharing)                        |          | [HW3]   |   
 | 12th February | [Evaluation](https://docs.google.com/presentation/d/1nUs5U_ETiB_XJ40ja-W8TlPcvPYiTkROOMJOpg7ypLs/edit?usp=sharing)                                |          |         |
 | 19th February | [Information Retrieval and RAG](https://docs.google.com/presentation/d/16OI1N-blBcp3dVCIdiBpS6MWydLpzuF-rwPOgbR5v4w/edit?usp=sharing)             |          | [HW4]   |
