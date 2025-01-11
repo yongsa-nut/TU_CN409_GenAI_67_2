@@ -33,7 +33,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 2nd  April    | [Safety](https://docs.google.com/presentation/d/1qeMR-1hN8ka53hejhAEO6-EA3uKL8s6SNZyXTPem-Do/edit?usp=sharing)                                    |          | [HW8]   |
 | 9th  April    | [Inference Time Compute](https://docs.google.com/presentation/d/1rx5cN6YXiiV8t_2cJ2SbeN8nBBXv-S13gNVkpb6iwjw/edit?usp=sharing)                    |          |         |
 | 16th April    | Songkarn (No Class)                       |          |         |
-| 23rd April    | [Image gen models](https://docs.google.com/presentation/d/1BPi2W9IS6XHiLHQt9ilYQJPh61qX-BOeCWOaXx0yW3M/edit?usp=sharing)                          |          | [HW9]   |
+| 23rd April    | [Image gen models](https://docs.google.com/presentation/d/1BPi2W9IS6XHiLHQt9ilYQJPh61qX-BOeCWOaXx0yW3M/edit?usp=sharing)                         |          | [HW9] / Progress Report (Due)   |
 | 30th April    | Video gen models                          |          |         |
 | 7th  May*     | [UX and AI + Human and AI](https://docs.google.com/presentation/d/1kv0yhwd3ZVo1O3tg9k6Z4sx5zzIxD6bj1OxkSxxJ1nk/edit?usp=sharing)                 |          | [HW10]  |
 | 14th May      | **Final Project Presentation**            |          |         |   
