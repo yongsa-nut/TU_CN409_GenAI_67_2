@@ -28,7 +28,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 26th February | [Multimodal Capabilities and Tool-Use](https://docs.google.com/presentation/d/19RwwitdVJyoxj9mXFuyQFub9QldgV9exuGu9-riYdUE/edit?usp=sharing)      |          | [HW5]   |
 | 5th  March    | [Agentic AI](https://docs.google.com/presentation/d/1b9bNb5mIunuMBPIC12yfsp-pQ_b-3SGROhToGH0MSB8/edit?usp=sharing)                                |          | [HW6]   |
 | 12th  March   | **Project Proposal**                      |          |         |
-| 19th  March   | Coding with AI                            |          | [HW7]   |
+| 19th  March   | [Coding with AI](https://docs.google.com/presentation/d/11mffZseWd8yEpscj0Sk-YGjoJHpj8yXrYCz5o1o-4i8/edit?usp=sharing)                            |          | [HW7]   |
 | 26th  March   | Roleplaying Chatbots                      |          |         |
 | 2nd  April    | Safety                                    |          | [HW8]   |
 | 9th  April    | Inference Time Compute                    |          |         |
