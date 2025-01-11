@@ -31,7 +31,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 19th  March   | [Coding with AI](https://docs.google.com/presentation/d/11mffZseWd8yEpscj0Sk-YGjoJHpj8yXrYCz5o1o-4i8/edit?usp=sharing)                            |          | [HW7]   |
 | 26th  March   | [Roleplaying Chatbots](https://docs.google.com/presentation/d/1KZCC8KPZV1Wry4O6RCluWoUWjsxHfOSDYNg7r97JGNA/edit?usp=sharing)                      |          |         |
 | 2nd  April    | [Safety](https://docs.google.com/presentation/d/1qeMR-1hN8ka53hejhAEO6-EA3uKL8s6SNZyXTPem-Do/edit?usp=sharing)                                    |          | [HW8]   |
-| 9th  April    | Inference Time Compute                    |          |         |
+| 9th  April    | [Inference Time Compute](https://docs.google.com/presentation/d/1rx5cN6YXiiV8t_2cJ2SbeN8nBBXv-S13gNVkpb6iwjw/edit?usp=sharing)                    |          |         |
 | 16th April    | Songkarn (No Class)                       |          |         |
 | 23rd April    | Image gen models                          |          | [HW9]   |
 | 30th April    | Video gen models                          |          |         |
