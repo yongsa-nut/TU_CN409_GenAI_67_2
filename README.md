@@ -29,7 +29,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 5th  March    | [Agentic AI](https://docs.google.com/presentation/d/1b9bNb5mIunuMBPIC12yfsp-pQ_b-3SGROhToGH0MSB8/edit?usp=sharing)                                |  [Video](https://youtu.be/tl9S2bGHs0I)        |    |
 | 12th  March   | **Project Proposal**                      |          |         |
 | 19th  March   | [Coding with AI](https://docs.google.com/presentation/d/1G6USOmqlWyHIBn5FNFWXNPUENwQpw5uBlDnesKz1YVs/edit?usp=sharing)      |  [Video](https://youtu.be/R83vbJvUC3g)        | [HW6]   |
-| 26th  March   | [Model Context Protocol](https://docs.google.com/presentation/d/1L6hwCi2xMV9Rkstet9F4UwY4dhHY4N4pl0JkCmreu08/edit?usp=sharing)    | [Video](https://studio.youtube.com/video/E0pQMwa0u00/edit)        |         |
+| 26th  March   | [Model Context Protocol](https://docs.google.com/presentation/d/1L6hwCi2xMV9Rkstet9F4UwY4dhHY4N4pl0JkCmreu08/edit?usp=sharing)    | [Video](https://youtu.be/E0pQMwa0u00)        |         |
 | 2nd  April    | [Safety](https://docs.google.com/presentation/d/1qeMR-1hN8ka53hejhAEO6-EA3uKL8s6SNZyXTPem-Do/edit?usp=sharing)                                    |          | [HW7]   |
 | 9th  April    | [Roleplaying Chatbots](https://docs.google.com/presentation/d/1KZCC8KPZV1Wry4O6RCluWoUWjsxHfOSDYNg7r97JGNA/edit?usp=sharing)                     |          |         |
 | 16th April    | Songkarn (No Class)                       |          |         |
