@@ -31,7 +31,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 19th  March   | [Coding with AI](https://docs.google.com/presentation/d/1G6USOmqlWyHIBn5FNFWXNPUENwQpw5uBlDnesKz1YVs/edit?usp=sharing)      |  [Video](https://youtu.be/R83vbJvUC3g)        | [HW6]   |
 | 26th  March   | [Model Context Protocol](https://docs.google.com/presentation/d/1L6hwCi2xMV9Rkstet9F4UwY4dhHY4N4pl0JkCmreu08/edit?usp=sharing)    | [Video](https://youtu.be/E0pQMwa0u00)        |         |
 | 2nd  April    | [Safety](https://docs.google.com/presentation/d/1qeMR-1hN8ka53hejhAEO6-EA3uKL8s6SNZyXTPem-Do/edit?usp=sharing)                                    |          | [HW7]   |
-| 9th  April    | [Roleplaying Chatbots](https://docs.google.com/presentation/d/1KZCC8KPZV1Wry4O6RCluWoUWjsxHfOSDYNg7r97JGNA/edit?usp=sharing)                     |          |         |
+| 9th  April    | [On the Biology of a Large Language Model](https://docs.google.com/presentation/d/1KZCC8KPZV1Wry4O6RCluWoUWjsxHfOSDYNg7r97JGNA/edit?usp=sharing)                     |          |         |
 | 16th April    | Songkarn (No Class)                       |          |         |
 | 23rd April    | [Reasoning Models](https://docs.google.com/presentation/d/1rx5cN6YXiiV8t_2cJ2SbeN8nBBXv-S13gNVkpb6iwjw/edit?usp=sharing)                         |          | Progress Report (Due)   |
 | 30th April    | [Image & Video gen models](https://docs.google.com/presentation/d/1BPi2W9IS6XHiLHQt9ilYQJPh61qX-BOeCWOaXx0yW3M/edit?usp=sharing)                        |          |         |
