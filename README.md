@@ -35,7 +35,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 16th April    | Songkarn (No Class)                       |          |         |
 | 23rd April    | [Reasoning Models](https://docs.google.com/presentation/d/1rx5cN6YXiiV8t_2cJ2SbeN8nBBXv-S13gNVkpb6iwjw/edit?usp=sharing)    | [Video](https://youtu.be/_fL6r7ORTck)          | Progress Report (Due)   |
 | 30th April    | [Image & Video gen models](https://docs.google.com/presentation/d/1BPi2W9IS6XHiLHQt9ilYQJPh61qX-BOeCWOaXx0yW3M/edit?usp=sharing)                        |          |         |
-| 7th  May*     | [UX and AI + Human and AI](https://docs.google.com/presentation/d/1kv0yhwd3ZVo1O3tg9k6Z4sx5zzIxD6bj1OxkSxxJ1nk/edit?usp=sharing)                 |          | [HW9]  |
+| 7th  May*     | [Human and AI](https://docs.google.com/presentation/d/1kv0yhwd3ZVo1O3tg9k6Z4sx5zzIxD6bj1OxkSxxJ1nk/edit?usp=sharing)                 |          | [HW9]  |
 | 14th May      | **Final Project Presentation**            |          |         |   
 
 *I'm out of town.
